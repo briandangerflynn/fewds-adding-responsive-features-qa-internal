@@ -25,6 +25,7 @@
   }
   
   #social {
+    position: absolute;
     top: 72px;
   }
 }
